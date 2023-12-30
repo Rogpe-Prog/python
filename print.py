@@ -29,3 +29,8 @@ nomee = 'Aloha'
 peso = 73.50
 msg = f'Olá, meu nome é {nome} e tenho {peso}'
 print(msg)
+
+#Format decimais
+
+valor = 125.573637
+print(f'O valor é {valor:.2f}')
